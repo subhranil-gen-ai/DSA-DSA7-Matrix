@@ -12,12 +12,9 @@ Python solutions for matrix-based problems including row-wise, column-wise trave
 - Transpose a matrix
 
 # Concepts Practiced
-- Matrix representation using 2D arrays
-- Row-wise traversal
-- Column-wise traversal
-- Primary diagonal sum
-- Secondary diagonal sum
-- Boundary element summation
-- Nested loops in 2D arrays
+Matrix representation using 2D arrays, Row-wise traversal, Column-wise traversal, Primary diagonal sum, Secondary diagonal sum, Boundary element summation, Nested loops in 2D arrays
 
-#
+# 🧑‍💻 Author
+*Subhranil Dutta*  
+5th Sem CSE | DSA + GenAI Learner  
+🔗 [GitHub Profile](https://github.com/subhranil-gen-ai)
