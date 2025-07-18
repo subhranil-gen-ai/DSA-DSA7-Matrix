@@ -11,7 +11,7 @@ Python solutions for matrix-based problems including row-wise, column-wise trave
 - Find the sum of all boundary elements
 - Transpose a matrix
 
-# Concepts Practiced
+# 📚 Concepts Practiced
 Matrix representation using 2D arrays, Row-wise traversal, Column-wise traversal, Primary diagonal sum, Secondary diagonal sum, Boundary element summation, Nested loops in 2D arrays
 
 # 🧑‍💻 Author
